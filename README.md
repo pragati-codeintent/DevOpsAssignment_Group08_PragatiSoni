@@ -161,13 +161,4 @@ Contributor Branch
      main
 ```
 
----
-
-## Important
-
-The **`main` branch** represents the official version of the project.
-
-Contributors should avoid directly modifying `main` unless the team specifically requires it.
-
-New work should preferably be added through a contributor branch and Pull Request.
 # DevOpsAssignment_Group08_PragatiSoni
