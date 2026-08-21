@@ -1,0 +1,66 @@
+# Kubernetes Reference Videos & Learning Resources
+
+## 1. Kubernetes Crash Course for Absolute Beginners
+
+Topics Covered:
+- What is Kubernetes?
+- Kubernetes Basics
+- Kubernetes Architecture
+- Kubernetes Cluster
+- Nodes
+- Pods
+- Deployments
+- Services
+- ConfigMaps
+- Secrets
+- kubectl Commands
+
+Video:
+https://youtu.be/s_o8dwzRlu4?si=vGLv1Omw41_-TRFn
+
+
+## 2. Kubernetes Tutorial for Beginners
+
+Channel: TechWorld with Nana
+
+Topics Covered:
+- What is Kubernetes?
+- Kubernetes Architecture
+- Pods
+- Deployments
+- Services
+- Namespaces
+- ConfigMaps
+- Secrets
+- Kubernetes Networking
+- kubectl Commands
+
+Video:
+https://www.youtube.com/watch?v=X48VuDVv0do
+
+
+## 3. Official Kubernetes Tutorials
+
+Resource: Kubernetes Official Documentation
+
+Topics Covered:
+- Kubernetes Basics
+- Pods
+- Services
+- Deployments
+- ConfigMaps
+- StatefulSets
+- Kubernetes Concepts
+- Practical Tutorials
+
+Link:
+https://kubernetes.io/docs/tutorials/
+
+
+## 4. Kubernetes Official Documentation
+
+The official Kubernetes documentation is used as a reference for
+understanding Kubernetes concepts, commands and practical examples.
+
+Link:
+https://kubernetes.io/docs/
