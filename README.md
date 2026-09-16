@@ -47,7 +47,7 @@ To check all files that are officially part of the project:
 
 Individual contributors may work on separate branches.
 
-To check a contributor's work:
+
 
 1. Open **Branches**.
 2. Select the contributor's branch.
