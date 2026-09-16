@@ -146,7 +146,7 @@ A contribution can be verified from GitHub by checking:
 * Commit author
 * Pull Request
 * Files changed
-* Merge status
+
 
 For example, a contributor's Pull Request will show:
 
