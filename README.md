@@ -138,6 +138,14 @@ Each member contributes their assigned resources through their own GitHub branch
 ---
 
 ## How to Verify a Contribution
+A contribution can be verified from GitHub by checking:
+
+* Contributor's branch
+* Commit history
+* Commit author
+* Pull Request
+* Files changed
+* Merge status
 
 
 
