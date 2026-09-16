@@ -10,7 +10,7 @@ The project includes cheatsheets, workflow diagrams, presentations, and other le
 
 ### Docker
 
-Docker resources included in this repository:
+Docker resources included in this repository:jwhiqs
 
 * **Docker Cheat Sheet** — Quick reference for important Docker concepts and commands.
 * **Docker Workflow** — Visual representation of the Docker workflow, from application code and Dockerfile to Docker image and container.
