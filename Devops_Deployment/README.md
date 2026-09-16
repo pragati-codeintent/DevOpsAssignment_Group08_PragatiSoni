@@ -125,3 +125,16 @@ After completing this project, you will be able to:
 * Kubernetes Tutorials
 * GitHub Learning Resources
 
+---
+
+## 👩‍💻 Contribution
+
+The Kubernetes resources in this repository were organized and prepared as part of the group's DevOps assignment work.
+
+The contribution includes:
+
+* Organizing the Kubernetes folder structure.
+* Adding Kubernetes notes and learning resources.
+* Preparing Kubernetes cheat sheets for quick revision.
+* Adding Kubernetes assignments.
+* Completing and adding Kubernetes weekly tasks.
