@@ -1,0 +1,1 @@
+export const STATUSES=['Wishlist','Applied','Online Assessment','Interview','Offer','Accepted','Rejected'];export const JOB_TYPES=['Internship','Full Time','Part Time','Contract'];export const WORK_MODES=['Remote','Hybrid','Onsite'];
