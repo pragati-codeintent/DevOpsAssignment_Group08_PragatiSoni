@@ -1,0 +1,1 @@
+import {Router} from 'express';import {analytics,adminStats} from '../controllers/analyticsController.js';import {protect,adminOnly} from '../middleware/authMiddleware.js';const r=Router();r.get('/',protect,analytics);r.get('/admin',protect,adminOnly,adminStats);export default r;

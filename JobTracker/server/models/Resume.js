@@ -1,0 +1,1 @@
+import mongoose from 'mongoose'; const schema=new mongoose.Schema({user:{type:mongoose.Schema.Types.ObjectId,ref:'User',required:true},name:{type:String,required:true},fileName:String,filePath:String,uploadedAt:{type:Date,default:Date.now}}); export default mongoose.model('Resume',schema);

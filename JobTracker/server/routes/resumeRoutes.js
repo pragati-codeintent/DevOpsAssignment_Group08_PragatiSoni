@@ -1,0 +1,1 @@
+import {Router} from 'express';import {uploadResume,getResumes,deleteResume} from '../controllers/resumeController.js';import {protect} from '../middleware/authMiddleware.js';import {upload} from '../middleware/uploadMiddleware.js';const r=Router();r.use(protect);r.post('/',upload.single('resume'),uploadResume);r.get('/',getResumes);r.delete('/:id',deleteResume);export default r;

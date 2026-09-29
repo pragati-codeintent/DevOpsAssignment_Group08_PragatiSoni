@@ -1,0 +1,1 @@
+import {Router} from 'express';import {createJob,getJobs,getJob,updateJob,deleteJob} from '../controllers/jobController.js';import {protect} from '../middleware/authMiddleware.js';const r=Router();r.use(protect);r.post('/',createJob);r.get('/',getJobs);r.get('/:id',getJob);r.put('/:id',updateJob);r.delete('/:id',deleteJob);export default r;
